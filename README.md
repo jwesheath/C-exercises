@@ -1,0 +1,1 @@
+This is a collection of C exercises for a popular computer science MOOC.  Each folder is a separate program/exercise and contains its own README file with instructions for use.
